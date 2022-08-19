@@ -570,6 +570,10 @@
     flex: 0 0 auto;
     width: 50%;
   }
+  .col-md-6-custom {
+    flex: 0 0 auto;
+    width: 20%;
+  }
   .col-md-7 {
     flex: 0 0 auto;
     width: 58.33333333%;
@@ -895,6 +899,10 @@
   .col-xl-3 {
     flex: 0 0 auto;
     width: 25%;
+  }
+  .col-xl-3-custom {
+    flex: 0 0 auto;
+    width: 20%;
   }
   .col-xl-4 {
     flex: 0 0 auto;

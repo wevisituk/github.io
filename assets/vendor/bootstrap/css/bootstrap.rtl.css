@@ -1445,6 +1445,10 @@ progress {
     flex: 0 0 auto;
     width: 25%;
   }
+  .col-xl-3-custom {
+    flex: 0 0 auto;
+    width: 20%;
+  }
   .col-xl-4 {
     flex: 0 0 auto;
     width: 33.33333333%;

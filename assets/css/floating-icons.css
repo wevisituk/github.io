@@ -4,7 +4,7 @@
     height:35px;
     top:13px;
     right:150px;
-    background-color:#25d366;
+    background-color:var(--color-gray);
     color:#FFF;
     border-radius:50px;
     text-align:center;
@@ -19,7 +19,7 @@
     height:35px;
     top:13px;
     right:100px;
-    background-color:#4267B2;
+    background-color:var(--color-gray);
     color:#FFF;
     border-radius:50px;
     text-align:center;
@@ -34,7 +34,7 @@
     height:35px;
     top:13px;
     right:50px;
-    background-color:#833AB4;
+    background-color:var(--color-gray);
     color:#FFF;
     border-radius:50px;
     text-align:center;

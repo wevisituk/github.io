@@ -33,6 +33,16 @@ h5,
 h6 {
   font-family: var(--font-primary);
 }
+/*--------------------------------------------------------------
+# Modal
+--------------------------------------------------------------*/
+.modal-dialog{
+    overflow-y: initial !important
+}
+.modal-body{
+    max-height: calc(100vh - 200px);
+    overflow-y: auto;
+}
 
 /*--------------------------------------------------------------
 # Preloader

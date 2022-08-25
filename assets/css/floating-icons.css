@@ -1,0 +1,48 @@
+.floating-whatsapp{
+    position:fixed;
+    width:35px;
+    height:35px;
+    top:13px;
+    right:150px;
+    background-color:var(--color-gray);
+    color:#FFF;
+    border-radius:50px;
+    text-align:center;
+    font-size:20px;
+    box-shadow: 2px 2px 3px #999;
+    z-index:100;
+}
+
+.floating-fb{
+    position:fixed;
+    width:35px;
+    height:35px;
+    top:13px;
+    right:100px;
+    background-color:var(--color-gray);
+    color:#FFF;
+    border-radius:50px;
+    text-align:center;
+    font-size:20px;
+    box-shadow: 2px 2px 3px #999;
+    z-index:100;
+}
+
+.floating-ig{
+    position:fixed;
+    width:35px;
+    height:35px;
+    top:13px;
+    right:50px;
+    background-color:var(--color-gray);
+    color:#FFF;
+    border-radius:50px;
+    text-align:center;
+    font-size:20px;
+    box-shadow: 2px 2px 3px #999;
+    z-index:100;
+}
+
+.float-button{
+    margin-top:8px;
+}

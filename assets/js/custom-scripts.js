@@ -78,11 +78,11 @@ function includeTermsAndConditions() {
 
             let formData = new FormData( thisForm );
 
-            php_email_form_submit(thisForm, action, formData);
+            submit(thisForm, action, formData);
         });
     });
 
-    function php_email_form_submit(thisForm, action, formData) {
+    function submit(thisForm, action, formData) {
         fetch(action, {
             method: 'POST',
             body: formData,

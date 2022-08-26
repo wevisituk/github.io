@@ -106,3 +106,9 @@ function includeTermsAndConditions() {
 
 })();
 // --- End FORM scripts --- //
+
+// --- Lazy load of testimonials bg --- //
+window.onload=loadTestimonialsBG();
+function loadTestimonialsBG(){
+    document.getElementById("testimonials").style.backgroundImage="url(../assets/img/testimonials-bg.jpg)";
+}

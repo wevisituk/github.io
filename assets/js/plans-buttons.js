@@ -9,4 +9,3 @@ function fillRegular() {
 function fillDeluxe() {
     document.getElementById("subject").value = "I am interested in your Deluxe plan!";
 }
-

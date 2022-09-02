@@ -1,0 +1,1 @@
+.floating-fb,.floating-ig,.floating-whatsapp{position:fixed;width:35px;height:35px;top:13px;right:150px;background-color:var(--color-gray);color:#fff;border-radius:50px;text-align:center;font-size:22px;box-shadow:2px 2px 3px #999;z-index:100}.floating-fb,.floating-ig{right:100px}.floating-ig{right:50px}.float-button{margin-top:8px}
